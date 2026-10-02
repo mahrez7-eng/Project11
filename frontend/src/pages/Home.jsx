@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import governmentLogo from '../assets/logo2.png';
+import governmentLogo from '../assets/logo3.png';
 import heroImageOne from '../assets/recpter1.png';
 import heroImageTwo from '../assets/recepter2.png';
 import heroImageThree from '../assets/recepter3.png';
